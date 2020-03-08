@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cars</string>
+    <string name="button1">Press</string>
+    <string name="text_1">Selected Cars</string>
+    <string-array name="cars">
+        <item>Volkswagen</item>
+        <item>Honda</item>
+        <item>ZAZ</item>
+        <item>Mersedes</item>
+
+    </string-array>
+
+</resources>
