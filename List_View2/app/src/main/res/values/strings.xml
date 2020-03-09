@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cars</string>
+    <string name="button1">Press</string>
+    <string name="text_1">Selected Cars</string>
+    <string-array name="array1">
+        <item>Volkswagen</item>
+        <item>BMW</item>
+        <item>Mersedes</item>
+        <item>ZAZ</item>
+        <item>Maz</item>
+        <item>Vaz</item>
+        <item>Tesla</item>
+        <item>Honda</item>
+        <item>Jaguar</item>
+        <item>Dodge</item>
+
+    </string-array>
+
+</resources>
